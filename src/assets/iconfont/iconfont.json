@@ -1,0 +1,100 @@
+{
+  "id": "1494408",
+  "name": "personal",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "504575",
+      "name": "图表",
+      "font_class": "tubiao",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    },
+    {
+      "icon_id": "1189528",
+      "name": "联系客服",
+      "font_class": "kefu",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "1244098",
+      "name": "我的",
+      "font_class": "wode",
+      "unicode": "e636",
+      "unicode_decimal": 58934
+    },
+    {
+      "icon_id": "1301389",
+      "name": "邀请",
+      "font_class": "yaoqing",
+      "unicode": "e666",
+      "unicode_decimal": 58982
+    },
+    {
+      "icon_id": "1555834",
+      "name": "vip",
+      "font_class": "vip",
+      "unicode": "e6ba",
+      "unicode_decimal": 59066
+    },
+    {
+      "icon_id": "2407252",
+      "name": "榜单",
+      "font_class": "tubiao-",
+      "unicode": "e651",
+      "unicode_decimal": 58961
+    },
+    {
+      "icon_id": "3064386",
+      "name": "意见反馈-首页24*24",
+      "font_class": "yijianfankui",
+      "unicode": "e742",
+      "unicode_decimal": 59202
+    },
+    {
+      "icon_id": "6702575",
+      "name": "退出登录",
+      "font_class": "Group",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "6888902",
+      "name": "皮肤",
+      "font_class": "pifu",
+      "unicode": "e667",
+      "unicode_decimal": 58983
+    },
+    {
+      "icon_id": "8211894",
+      "name": "交易明细",
+      "font_class": "jiaoyimingxi",
+      "unicode": "e672",
+      "unicode_decimal": 58994
+    },
+    {
+      "icon_id": "8288999",
+      "name": "加号",
+      "font_class": "jiahao",
+      "unicode": "e86a",
+      "unicode_decimal": 59498
+    },
+    {
+      "icon_id": "8482935",
+      "name": "右箭头",
+      "font_class": "jiantou",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "8780337",
+      "name": "公众号",
+      "font_class": "gongzhonghao",
+      "unicode": "e623",
+      "unicode_decimal": 58915
+    }
+  ]
+}
